@@ -41,7 +41,7 @@ PyCharm • VS Code • GitHub • Postman
 QR → Voice Chatbot → RAG LLM → Vector DB  
 Provides product information through voice commands after QR scan.  
 
-🔗 Repo: *Coming soon (under development)*
+🔗 https://github.com/rehenmanoy/lumira-ai-exhibition-assistant
 
 ---
 
